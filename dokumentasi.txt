@@ -1,0 +1,45 @@
+Database:
+> Barang
+Untuk menyimpan Data Barang
+> Kategori
+Untuk menyimpan Data Kategori Barang
+> Stok
+Untuk menyimpan Data Stok Barang
+> Harga
+Untuk menyimpan Data Harga Barang
+> Satuan
+Untuk menyimpan Satuan Barang
+> Isi
+Untuk menyimpan Isi dari tiap Satuan Barang
+> Pegawai
+Untuk menyimpan Data Pegawai
+> Auth
+Untuk menyimpan Password Pegawai
+
+> Penjualan
+Untuk menyimpan Data Pejualan
+> Detil_Penjualan
+Untuk menyimpan barang yang terjual
+> Kasir
+Untuk menyimpan Data pegawai yang berhak jadi kasir
+> Pelanggan
+Untuk menyimpan Data Pelanggan
+
+> Pembelian
+Untuk menyimpan Data Pembelian
+> Detil_Pembelian
+Untuk menyimpan barang yang dibeli
+> Gudang
+Untuk menyimpan Data pegawai yang berhak jadi gudang
+> Supplier
+Untuk menyimpan Data Supplier
+
+> Retur_Penjualan
+Untuk menyimpan Data Retur Pejualan
+> Detil_Retur_Penjualan
+Untuk menyimpan barang yang diretur oleh pelanggan
+
+> Retur_Pembelian
+Untuk menyimpan Data Retur Pembelian
+> Detil_Retur_Pembelian
+Untuk menyimpan barang yang diretur ke supplier
